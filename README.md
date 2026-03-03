@@ -1,5 +1,7 @@
 # BAKROOMS (Codex Prototype)
 
+NOTE: I got it in my head to just tell CODEX: here's what I'm looking for, but you create the progression and win conditions... and see what happens.
+
 Backrooms-inspired first-person CE game with a fixed-point raycaster.
 
 ## Controls
