@@ -1,0 +1,17 @@
+mypalette.h
+mypalette.c
+lvl_exit.h
+lvl_exit.c
+shard.h
+shard.c
+sanity_juice.h
+sanity_juice.c
+lvl0_ceiling.h
+lvl0_ceiling.c
+lvl0_wall.h
+lvl0_wall.c
+lvl0_floor.h
+lvl0_floor.c
+lvl0_entity.h
+lvl0_entity.c
+gfx.h

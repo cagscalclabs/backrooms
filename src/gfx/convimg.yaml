@@ -1,0 +1,23 @@
+palettes: 
+  - name: mypalette
+    images: automatic
+
+converts:
+  - name: myimages
+    palette: mypalette
+    images:
+      - lvl_exit
+      - shard
+      - sanity_juice
+      - lvl0_ceiling
+      - lvl0_wall
+      - lvl0_floor
+      - lvl0_entity
+
+outputs:
+  - type: c
+    include-file: gfx.h
+    palettes:
+      - mypalette
+    converts:
+      - myimages
